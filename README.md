@@ -1,5 +1,5 @@
 # CMPG323-Project-5-34443126
-This repository contains the Reporting and Monitoring project and it’s resources. In this project I have created a report using Microsoft Power BI Deskop called Connected Office - Device Monitoring. This report is based on the data collected from a local excel file on my computer containing Connected Office data.
+This repository contains the Reporting and Monitoring project and it’s resources. In this project I have created a report using Microsoft Power BI Deskop called Connected Office - Device Monitoring. This report is based on the data collected from a local excel file on my computer containing Connected Office data that I used to create statical and strategical visualizations.
 # The Use Of Connected Office - Device Monitoring
 Using this report is not that complicated but users will have to own an account on Power BI official website and then can they be able to access my report.
 
